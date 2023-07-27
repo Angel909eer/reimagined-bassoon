@@ -1,0 +1,58 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Edu+SA+Beginner:wght@500&display=swap');
+
+h1{
+    font-family: 'Edu SA Beginner', cursive; 
+}
+
+h2{
+    font-family: 'Edu SA Beginner', cursive; 
+}
+
+.btn {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    width: 120px;
+    background: #000000;
+    color: white;
+    padding: 10px;
+    margin: 10px auto;
+}
+div.container {
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto;
+    }
+
+    img {
+    width: 20%;
+    height: auto;
+    }
+
+h4 {
+    
+    font-family:  'Edu SA Beginner', cursive; 
+    color: black;
+    
+    }
+
+.html,body{
+    height: 100vh;
+}
+
+
+
+body {
+  background-size: cover ;
+  background-attachment: fixed ;
+  background-position: center;
+}
+
+
+#HOAL{
+    width: 90%;
+    margin: auto;
+    padding: auto;
+
+}
